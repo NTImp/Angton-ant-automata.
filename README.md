@@ -1,5 +1,5 @@
 # Lanton's ant automata
-Lanton's ant automa written in C with SDL2.
+Lanton's ant automon written in C with SDL2.
 ### Build
 Install SDL2 development libraries and run the makefile.
 ### Usage
